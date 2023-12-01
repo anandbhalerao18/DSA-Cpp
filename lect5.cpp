@@ -49,7 +49,7 @@ int main(){
         }
         else{
             // is a prime number then remender will be 1 or anything
-            cout<<"A prime number"<<endl;
+            cout<<"A prime numberrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"<<endl;
             break;
         }
     }
