@@ -11,7 +11,7 @@ bool search(int arr[], int size, int key)
         }
         else
         {
-            return 0;   
+            return 0;    
         }
     }
 }
